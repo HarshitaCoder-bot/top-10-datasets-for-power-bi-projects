@@ -6,7 +6,7 @@
 
 3)Electric Vehicle Charging Stations https://www.kaggle.com/datasets/prasertk/electric-vehicle-charging-stations-in-usa
 
-4)2024 US Presidential Election https://www.kaggle.com/datasets/jpmiller/elections
+4)US Presidential Election https://www.kaggle.com/datasets/jpmiller/elections
 
 5)Food Delivery Orders & ETA Logistics Dataset https://www.kaggle.com/datasets/razanihababdellatif/food-delivery-orders-and-eta-logistics-dataset
 
