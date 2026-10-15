@@ -1,6 +1,6 @@
 # top-10-datasets-for-power-bi-projects
 
-1)AI Job Market 2026 — Automation vs Traditional Roles
+1)AI Job Market 2026 — Automation vs Traditional Roles https://www.kaggle.com/code/rameeshaamin/technology-company-layoffs-in-2026
 
 2)Sustainable Development Data
 
