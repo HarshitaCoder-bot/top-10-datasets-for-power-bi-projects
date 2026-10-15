@@ -1,7 +1,9 @@
 # top-10-datasets-for-power-bi-projects
 
 1)AI Job Market 2026 — Automation vs Traditional Roles
+
 2)Sustainable Development Data
+
 3)Electric Vehicle Charging Stations
 4)Update to dataset for the US President election
 5)Food Delivery Orders & ETA Logistics Dataset
